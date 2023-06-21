@@ -1,0 +1,39 @@
+.nav-wrapper {
+    padding: 0 3rem;
+}
+
+.price {
+    font-size: 1.7rem;
+}
+
+.course {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.course h1 {
+    margin-bottom: 2rem;
+
+}
+
+.course img {
+    max-width: 400px;
+    height: auto;
+}
+
+.course .price.big {
+    font-size: 2rem;
+}
+
+.card-action.actions {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.form-cart {
+    margin-top: 0.5rem;
+}
